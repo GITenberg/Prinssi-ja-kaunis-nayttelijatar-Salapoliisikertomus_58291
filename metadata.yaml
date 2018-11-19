@@ -1,0 +1,30 @@
+_repo: Prinssi-ja-kaunis-nayttelijatar-Salapoliisikertomus_58291
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Varmanen, Julius
+    gutenberg_agent_id: '49878'
+    url: http://www.gutenberg.org/2009/agents/49878
+creator:
+  author:
+    agent_name: Elvestad, Sven
+    birthdate: 1884
+    deathdate: 1934
+    gutenberg_agent_id: '48941'
+    url: http://www.gutenberg.org/2009/agents/48941
+    wikipedia: https://en.wikipedia.org/wiki/Sven_Elvestad
+description: ''
+gutenberg_issued: '2018-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58291'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Prinssi ja kaunis näyttelijätär
+
+  Salapoliisikertomus'
+url: http://www.gutenberg.org/ebooks/58291
