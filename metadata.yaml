@@ -1,10 +1,13 @@
 _repo: Prinssi-ja-kaunis-nayttelijatar-Salapoliisikertomus_58291
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Varmanen, Julius
     gutenberg_agent_id: '49878'
     url: http://www.gutenberg.org/2009/agents/49878
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Elvestad, Sven
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48941
     wikipedia: https://en.wikipedia.org/wiki/Sven_Elvestad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58291#Prinssi-ja-kaunis-nayttelijatar-Salapoliisikertomus
 gutenberg_issued: '2018-11-17'
 gutenberg_type: Text
 identifiers:
